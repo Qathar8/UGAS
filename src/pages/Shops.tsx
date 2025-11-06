@@ -133,7 +133,7 @@ export default function Shops() {
                   Location
                 </th>
                 <th className="text-left py-3 px-4 text-sm font-semibold text-slate-700">
-                  Manager
+                  Shop Manager
                 </th>
                 <th className="text-right py-3 px-4 text-sm font-semibold text-slate-700">
                   Actions
