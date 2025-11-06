@@ -32,7 +32,7 @@ export default function Sidebar() {
             <Store className="w-6 h-6 text-white" />
           </div>
           <div>
-            <h1 className="font-bold text-slate-800">Shop Tracker</h1>
+            <h1 className="font-bold text-slate-800">Ugas Abdikadir Shop Tracker</h1>
             <p className="text-xs text-slate-500">Pro Edition</p>
           </div>
         </div>
