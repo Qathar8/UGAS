@@ -35,7 +35,7 @@ export default function Login() {
             <div className="bg-blue-500 p-4 rounded-2xl mb-4">
               <Store className="w-8 h-8 text-white" />
             </div>
-            <h1 className="text-3xl font-bold text-slate-800">Shop Tracker Pro</h1>
+            <h1 className="text-3xl font-bold text-slate-800"> Ugas Abdikadir Shop Tracker Pro</h1>
             <p className="text-slate-500 mt-2">Digital Store Management</p>
           </div>
 
@@ -91,9 +91,7 @@ export default function Login() {
 
           <div className="mt-6 p-4 bg-blue-50 rounded-xl">
             <p className="text-xs text-slate-600 text-center">
-              <strong>Demo Credentials:</strong><br />
-              Email: owner@shoptracker.com<br />
-              Password: demo123
+          
             </p>
           </div>
         </div>
